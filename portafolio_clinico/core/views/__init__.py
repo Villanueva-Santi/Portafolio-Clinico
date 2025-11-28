@@ -1,0 +1,5 @@
+from .autoevaluaciones_views import AutoevaluacionViewSet
+from .evaluaciondocente_views import EvaluacionDocenteViewSet
+from .procedimientorealizado_views import ProcedimientoRealizadoViewSet
+
+# portafolio_clinico/core/views/__init__.py
